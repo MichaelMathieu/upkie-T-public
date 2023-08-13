@@ -25,6 +25,17 @@ TODO | M3 heat inserts | https://amzn.eu/d/d2RtyQ6 | £7
 TODO | M2.5 TODO get length | maybe above link |
 1 | (Optional) bluetooth keyboard and mouse | | ~£25
 
+# Cables
+
+* For each tibia, one CAN and one power cable. Length: 290mm.
+* For each femur, one CAN and one power cable. Length: 340mm.
+* Power dist board -> left qdd: one power cable. Length: TODO.
+* Power dist board -> right qdd: one power cable. Length: TODO.
+* pi3hat -> left qdd: one CAN cable. Length: TODO.
+* pi3hat -> right qdd: one CAN cable. Length: TODO.
+* power dist board -> pi3hat: one power cable and one (optional) CAN cable. Length: TODO.
+* Solder a xt30 connector to the fan to connect to the power dist board.
+
 # 3d Print
 
 Print all the `.stl` files. Some files have (or will have) a `.3mf` version if the print is difficult. Notes:
@@ -44,6 +55,7 @@ Legs (x2):
 * Attach motor with 4 M3x20 screws (TODO)
 * Add and attach ankle cap with 1 M3x6 or M3x10 screw
 * Attach bottom ankle cap with 2 M3x10 screws (TODO)
+* ...
 
 # Notes
 Wheel radius: 80.66mm
