@@ -25,6 +25,15 @@ TODO | M3 heat inserts | https://amzn.eu/d/d2RtyQ6 | £7
 TODO | M2.5 TODO get length | maybe above link |
 1 | (Optional) bluetooth keyboard and mouse | | ~£25
 
+# 3d Print
+
+Print all the `.stl` files. Some files have (or will have) a `.3mf` version if the print is difficult. Notes:
+* The femurs and tibia print vertically. Adding a brim is recommended.
+* Print the files with names starting with FLEX in flex filament.
+* The tyres need to be softer than what you would get with the regular slicer settings. See the `.3mf` file, or experiment with slicer settings.
+* The parts are designed to be printed with a maximum overhang threshold of 60 degrees. Anything lower may result in unwanted support (may be hard to remove).
+* Files with x2 in the name need to be printed twice.
+
 # Assembly (unfinished)
 Order of operation (experimental):
 Legs (x2):
