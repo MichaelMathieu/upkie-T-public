@@ -6,7 +6,7 @@ TODO | PLA filament (or any non-flex filament) | |
 TODO | Flex filament | |
 7 | CAN bus cables (see below for lengths, JST-PH3 connectors) | |
 7 | power cables (see below for lengths) | |
-1 | Battery (12V to 44V, >= 2000mAh) with XT90 connector | | 
+1 | Battery (12V to 44V, >= 2000mAh) with XT90 connector. Note: LiFe batteries are safer. | | 
 1 | Battery charger | |
 6 | QDD 100 beta 3 (NOT beta 2) | https://mjbots.com/products/qdd100-beta-3 | $539+VAT
 2 | moteus dev kits | https://mjbots.com/products/moteus-r4-11-developer-kit | $244+VAT
@@ -44,6 +44,7 @@ Print all the `.stl` files. Some files have (or will have) a `.3mf` version if t
 * The tyres need to be softer than what you would get with the regular slicer settings. See the `.3mf` file, or experiment with slicer settings.
 * The parts are designed to be printed with a maximum overhang threshold of 60 degrees. Anything lower may result in unwanted support (may be hard to remove).
 * Files with x2 in the name need to be printed twice.
+* There are several versions of the battery holder depending on the battery dimension.
 
 # Assembly (unfinished)
 Order of operation (experimental):
