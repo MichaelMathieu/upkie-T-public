@@ -27,6 +27,8 @@ TODO | M2.5 TODO get length | maybe above link |
 
 # Cables
 
+Try to get the lengths right. Slack can be annoying.
+
 * For each tibia, one CAN and one power cable. Length: 290mm.
 * For each femur, one CAN and one power cable. Length: 340mm.
 * Power dist board -> left qdd: one power cable. Length: TODO.
@@ -60,5 +62,3 @@ Legs (x2):
 
 # Notes
 Wheel radius: 80.66mm
-Tibia cable length: 290mm
-Femur cable length: 340mm
