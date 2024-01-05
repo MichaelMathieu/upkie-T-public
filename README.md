@@ -22,7 +22,7 @@ TODO | M3x10 socket head machine screws | |
 TODO | M3x20 socket head machine screws | |
 TODO | M3 heat inserts | https://amzn.eu/d/d2RtyQ6 | £7
 4 | M2.5 female to female 12mm (TODO confirm) spacers | https://www.amazon.co.uk/dp/B093FQH5WS?ref=ppx_yo2ov_dt_b_product_details&th=1 | <£10
-TODO | M2.5 TODO get length | maybe above link |
+4 | M2.5x8 | maybe above link |
 1 | (Optional) bluetooth keyboard and mouse | | ~£25
 
 # Cables
